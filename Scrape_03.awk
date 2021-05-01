@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/gawk -f
 # Scrape_03.awk
 # gawk -f Scrape_03.awk
 
