@@ -117,6 +117,6 @@ $ trello add-card -b "hoge" -l "piyo" "hoge" -p bottom
 $ trello show-cards -b "hoge" -l "piyo"
 Trelloワークスペース > hoge > piyo
 * QoaxQksq - hoge
-Jhon_Doe@LAPTOP-T50E9V47:/mnt/c/UbuntuWorks$
+$
 ```
 
