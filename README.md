@@ -12,7 +12,7 @@ trelewで自動追加を試みたのだが、なんといちいちtmpに中間�
 環境は、WSL2 Ubuntu 20.04 LTSによる。
 
 ```
-npm install -g trello-cli
+sudo npm install -g trello-cli --unsafe-perm=true --allow-root  
 npm audit fix
 npm audit
 ```
